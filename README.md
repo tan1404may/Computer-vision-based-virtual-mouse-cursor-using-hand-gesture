@@ -44,3 +44,12 @@ This Python project  allows you to control your laptop mouse using a webcam. It 
      
 7. Paste operation
      - To perform copy operation keep the index and middle finger extended and all other fingers down.
+
+8. Zoom In operation
+     - To perform the zoom in operation, move your thumb and index finger extend up and immediately down. While doing this leave all other fingers down.
+
+9. Zoom Out operation
+     - To perform the zoom in operation, keep your thumb down and move other fingers extend up and immediately down.
+
+10. Tab Shift operation
+     - This operation will only work in browser. To perform the tab shift operation first keep all the fingers extended up, then move ring finger and thumb up and down.  
